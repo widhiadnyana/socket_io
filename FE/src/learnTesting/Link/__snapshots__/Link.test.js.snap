@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link changes the class when hovered 1`] = `
+<DocumentFragment>
+  <a
+    class="normal"
+    data-testid="link"
+    href="http://www.facebook.com"
+  >
+    Facebook
+  </a>
+</DocumentFragment>
+`;
+
+exports[`Link changes the class when hovered 2`] = `
+<DocumentFragment>
+  <a
+    class="hovered"
+    data-testid="link"
+    href="http://www.facebook.com"
+  >
+    Facebook
+  </a>
+</DocumentFragment>
+`;
+
+exports[`Link changes the class when hovered 3`] = `
+<DocumentFragment>
+  <a
+    class="normal"
+    data-testid="link"
+    href="http://www.facebook.com"
+  >
+    Facebook
+  </a>
+</DocumentFragment>
+`;
